@@ -36,6 +36,7 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 - [NeRF-based Polarimetric Multi-view Stereo](https://scholar.google.co.jp/citations?view_op=view_citation&hl=zh-CN&user=zii-mcAAAAAJ&citation_for_view=zii-mcAAAAAJ:IjCSPb-OGe4C), Jiakai Cao, **Zhenlong Yuan**, Tianlu Mao, Zhaoqi Wang, Zhaoxin Li, **Pattern Recognition 2024**
 - [MapExpert: Online HD Map Construction with Simple and Efficient Sparse Map Element Expert](https://scholar.google.co.jp/citations?view_op=view_citation&hl=zh-CN&user=zii-mcAAAAAJ&citation_for_view=zii-mcAAAAAJ:W7OEmFMy1HYC), Dapeng Zhang, Dayu Chen, Peng Zhi, Yinda Chen, **Zhenlong Yuan**, Chenyang Li, Rui Zhou, Qingguo Zhou, **AAAI 2025**
 
+
 # 🎖 Honors and Awards
 - *2024.12* Lenovo Enterprise Scholarship (Top 1%)
 - *2022.10-2024.10* Three Times ICT First Class Scholarships (Top 5%)
